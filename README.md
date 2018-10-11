@@ -124,7 +124,7 @@ String data1 = Ecc.parseAccountData(
 
 # join eos open source 
 
-wechat hl_294944589
+wechat momo1106714071
  
 # License
 
